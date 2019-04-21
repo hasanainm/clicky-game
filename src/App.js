@@ -5,7 +5,7 @@ import Avengers from "./components/Avengers"
 import avengers from "./avengers.json";
 import "./App.css";
 
-class App extends React.Component {
+class App extends React.Component{
 
   state = {
     avengers: avengers,
