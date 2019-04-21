@@ -1,0 +1,12 @@
+.jumbotron {
+  background-image: url("./avengers-theme.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  min-height: 100vh;
+  margin-bottom: 0;
+  
+}
+
+
+

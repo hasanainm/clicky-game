@@ -1,0 +1,14 @@
+.card {
+  display: inline-block;
+  margin: 10px;
+}
+
+.cardImg {
+  width: 250px;
+  height: 250px;
+  border: 6px solid red;
+}
+
+.cardImg:hover {
+  cursor: pointer;
+}
