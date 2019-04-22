@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3dcd74c7ea0f40efc51f",
-    "url": "/clicky-game/static/css/main.dc90e949.chunk.css"
+    "revision": "e8ac7f58431d8ac6e282",
+    "url": "/clicky-game/static/css/main.3c965bb3.chunk.css"
   },
   {
-    "revision": "3dcd74c7ea0f40efc51f",
-    "url": "/clicky-game/static/js/main.1a84e335.chunk.js"
+    "revision": "e8ac7f58431d8ac6e282",
+    "url": "/clicky-game/static/js/main.b06b470a.chunk.js"
   },
   {
     "revision": "265538ab0e4606d350e6",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/clicky-game/static/media/avengers-theme.45bcfa60.png"
   },
   {
-    "revision": "ce1132f5f4f01cd9f27dff3d7dc2e928",
+    "revision": "a800d1671e7340f23818eb6c0bafd94a",
     "url": "/clicky-game/index.html"
   }
 ];
